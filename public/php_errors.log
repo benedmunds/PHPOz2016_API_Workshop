@@ -1,0 +1,28 @@
+[13-Apr-2016 08:16:30 America/Chicago] {"status":"Test Update via Put"}
+[13-Apr-2016 08:16:30 America/Chicago] status
+[13-Apr-2016 08:16:30 America/Chicago] Test Update via Put
+[13-Apr-2016 08:16:30 America/Chicago] UPDATE users SET username = :username, first_name = :first_name, last_name = :last_name, email = :email WHERE id = :id
+[13-Apr-2016 08:17:01 America/Chicago] {"status":"Test Update via Put"}
+[13-Apr-2016 08:17:01 America/Chicago] status
+[13-Apr-2016 08:17:01 America/Chicago] Test Update via Put
+[13-Apr-2016 08:17:01 America/Chicago] UPDATE users SET username=:username, first_name=:first_name, last_name=:last_name, email=:email WHERE id=:id
+[13-Apr-2016 08:17:18 America/Chicago] {"status":"Test Update via Put"}
+[13-Apr-2016 08:17:18 America/Chicago] status
+[13-Apr-2016 08:17:18 America/Chicago] Test Update via Put
+[13-Apr-2016 08:17:19 America/Chicago] UPDATE users SET email=:email WHERE id=:id
+[13-Apr-2016 08:21:28 America/Chicago] {"status":"Test Update via Put"}
+[13-Apr-2016 08:21:28 America/Chicago] status
+[13-Apr-2016 08:21:28 America/Chicago] Test Update via Put
+[13-Apr-2016 08:21:28 America/Chicago] UPDATE users SET email=:email WHERE id=:id
+[13-Apr-2016 08:21:59 America/Chicago] {"status":"Test Update via Put"}
+[13-Apr-2016 08:21:59 America/Chicago] status
+[13-Apr-2016 08:21:59 America/Chicago] Test Update via Put
+[13-Apr-2016 08:21:59 America/Chicago] UPDATE users SET email=:email WHERE id=:id
+[13-Apr-2016 08:22:04 America/Chicago] {"status":"Test Update via Put"}
+[13-Apr-2016 08:22:04 America/Chicago] status
+[13-Apr-2016 08:22:04 America/Chicago] Test Update via Put
+[13-Apr-2016 08:22:05 America/Chicago] UPDATE users SET email=:email WHERE id=:id
+[13-Apr-2016 08:23:09 America/Chicago] {"status":"Test Update via Put"}
+[13-Apr-2016 08:23:09 America/Chicago] status
+[13-Apr-2016 08:23:09 America/Chicago] Test Update via Put
+[13-Apr-2016 08:23:09 America/Chicago] UPDATE users SET email=:email WHERE id=:id

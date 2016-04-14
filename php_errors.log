@@ -1,0 +1,5 @@
+[13-Apr-2016 10:41:07 UTC] PHP Fatal error:  Class 'There4\Slim\Test\WebTestCase' not found in /Users/Ben/htdocs/apiWorkshop/v2_withTests/tests/bootstrap.php on line 15
+[13-Apr-2016 10:41:29 UTC] PHP Fatal error:  Class 'LocalWebTestCase' not found in /Users/Ben/htdocs/apiWorkshop/v2_withTests/tests/integration/UserTest.php on line 3
+[13-Apr-2016 10:42:34 UTC] PHP Fatal error:  Call to undefined method GuzzleHttp\Message\Response::send() in /Users/Ben/htdocs/apiWorkshop/v2_withTests/tests/integration/StatusTest.php on line 22
+[13-Apr-2016 10:43:42 UTC] PHP Fatal error:  Call to undefined method GuzzleHttp\Stream\Stream::getStatusCode() in /Users/Ben/htdocs/apiWorkshop/v2_withTests/tests/integration/StatusTest.php on line 25
+[13-Apr-2016 11:15:12 UTC] PHP Fatal error:  Class 'Client' not found in /Users/Ben/htdocs/apiWorkshop/v2_withTests/tests/integration/UserTest.php on line 47
